@@ -20,5 +20,5 @@ Welcome to **Hackersking Toolkit**, an open-source collection of cybersecurity u
 
 ```bash
 git clone https://github.com/kinghacker0/toolkit
-cd toolkit
+cd Toolkit
 python3 toolkit.py
